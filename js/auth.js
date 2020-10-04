@@ -1,4 +1,4 @@
-var host = "https://lost-found-by-vuto.herokuapp.com/";
+var host = "https://lost-found-by-vuto.herokuapp.com";
 
 setAppUrl(host);
 
